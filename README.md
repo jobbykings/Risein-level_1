@@ -7,7 +7,7 @@ This application acts as a **Simple Payment Portal**, allowing users to seamless
 ---
 
 ## 🚀 Live Demo & Repository Details
-- **Developer:** Jerome Onoja ([@jobbykings](https://github.com/jobbykings))
+- **Developer:** Daniel Job Gonsum ([@jobbykings](https://github.com/jobbykings))
 - **Repository URL:** [https://github.com/jobbykings/Risein-level_1](https://github.com/jobbykings/Risein-level_1)
 - **Target Network:** Stellar Testnet
 - **Supported Wallet:** Freighter Extension
